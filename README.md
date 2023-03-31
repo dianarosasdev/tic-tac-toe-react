@@ -1,3 +1,9 @@
+# Tic-tac-toe React
+
+Proyecto basado en el tutorial de Ania Kubów.
+
+**Referencia:** [Practise React with Tic-Tac-Toe! | Updating Arrays with useState()](https://www.youtube.com/watch?v=nrv_O_dIvns)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
